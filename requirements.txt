@@ -1,6 +1,5 @@
 # Core requirements
 streamlit
-python
 # Machine Learning and Deep Learning libraries
 tensorflow
 keras
