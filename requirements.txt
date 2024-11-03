@@ -1,0 +1,7 @@
+Python 3.x
+TensorFlow and Keras libraries for deep learning
+OpenCV for image processing
+Matplotlib and Seaborn for visualization
+Streamlit for web-based application deployment
+Sklearn for model evaluation metrics and data handling
+Dataset with train, test and validation set
